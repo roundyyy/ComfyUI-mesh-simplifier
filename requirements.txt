@@ -1,0 +1,6 @@
+# Required packages for Mesh Simplifier
+pymeshlab
+trimesh==4.4.1
+numpy==1.26.4
+# Optional - For glTF mesh loading/saving
+pillow==10.4.0
